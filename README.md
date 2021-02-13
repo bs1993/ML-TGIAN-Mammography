@@ -1,7 +1,7 @@
 #Info
 
-Writtter's Name: Vassilis Carlis
-Date: 02.2020
+•Writtter's Name: Vassilis Carlis
+•Date: 02.2021
 
 An implementation for Machine Learning Course in the case of MSc Artificial Intelligence, NCSR Demokritos
 
