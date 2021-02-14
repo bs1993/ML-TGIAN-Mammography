@@ -12,6 +12,7 @@ An implementation for Machine Learning Course in the case of MSc Artificial Inte
 •	Introduction
 •	Goal
 •	Features
+•	Visualization of Class Comparison
 •	Scatter Matrix
 •	Data Pre-process
 •	Classification Algorithms
@@ -44,6 +45,10 @@ The goal of this project is the development of a useful supportive tool for the 
 •	contrast
 •	low_order_moment
 
+
+#Visualization of Class Comparison
+
+Print a histogramm for the vizualisaton of the comparison of the classes
 
 
 #Scatter Matrix
@@ -99,5 +104,11 @@ For the run of the program is required a Python 3 IDE and the installation of th
 •	matplotlib	
 
 Also, the file classification.py and the file mammography.csv must be stored in the same folder.
+
+It is possible to run the classification.ipynb online from GitHub but you should download the csv and change the path of file:
+
+mydata = pd.read_csv(r"Import the path of the csv file")
+
+
 
 
